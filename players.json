@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Itay",
+        "attributes": {
+            "mental": {
+                "determination": 62,
+                "discipline": 81,
+                "knowledge": 95
+            },
+            "physical": {
+                "power": 100,
+                "speed": 63
+            },
+            "technical": {
+                "ball_control": 75,
+                "defense": 78,
+                "shooting": 70
+            }
+        },
+        "score": {
+            "general": 77,
+            "physical": 82,
+            "technical": 74,
+            "mental": 79
+        }
+    },
+    {
+        "name": "Ori",
+        "attributes": {
+            "mental": {
+                "determination": 66,
+                "discipline": 72,
+                "knowledge": 69
+            },
+            "physical": {
+                "power": 66,
+                "speed": 97
+            },
+            "technical": {
+                "ball_control": 90,
+                "defense": 91,
+                "shooting": 61
+            }
+        },
+        "score": {
+            "general": 78,
+            "physical": 82,
+            "technical": 81,
+            "mental": 69
+        }
+    },
+    {
+        "name": "Noam",
+        "attributes": {
+            "mental": {
+                "determination": 68,
+                "discipline": 91,
+                "knowledge": 71
+            },
+            "physical": {
+                "power": 98,
+                "speed": 62
+            },
+            "technical": {
+                "ball_control": 79,
+                "defense": 76,
+                "shooting": 73
+            }
+        },
+        "score": {
+            "general": 77,
+            "physical": 80,
+            "technical": 76,
+            "mental": 77
+        }
+    },
+    {
+        "name": "Lior",
+        "attributes": {
+            "mental": {
+                "determination": 76,
+                "discipline": 100,
+                "knowledge": 80
+            },
+            "physical": {
+                "power": 72,
+                "speed": 75
+            },
+            "technical": {
+                "ball_control": 91,
+                "defense": 62,
+                "shooting": 65
+            }
+        },
+        "score": {
+            "general": 76,
+            "physical": 74,
+            "technical": 73,
+            "mental": 85
+        }
+    },
+    {
+        "name": "Amit",
+        "attributes": {
+            "mental": {
+                "determination": 76,
+                "discipline": 70,
+                "knowledge": 71
+            },
+            "physical": {
+                "power": 82,
+                "speed": 71
+            },
+            "technical": {
+                "ball_control": 86,
+                "defense": 81,
+                "shooting": 90
+            }
+        },
+        "score": {
+            "general": 80,
+            "physical": 76,
+            "technical": 86,
+            "mental": 72
+        }
+    },
+    {
+        "name": "Nadav",
+        "attributes": {
+            "mental": {
+                "determination": 88,
+                "discipline": 95,
+                "knowledge": 80
+            },
+            "physical": {
+                "power": 87,
+                "speed": 99
+            },
+            "technical": {
+                "ball_control": 70,
+                "defense": 86,
+                "shooting": 64
+            }
+        },
+        "score": {
+            "general": 82,
+            "physical": 93,
+            "technical": 73,
+            "mental": 88
+        }
+    },
+    {
+        "name": "Yotam",
+        "attributes": {
+            "mental": {
+                "determination": 86,
+                "discipline": 71,
+                "knowledge": 75
+            },
+            "physical": {
+                "power": 100,
+                "speed": 86
+            },
+            "technical": {
+                "ball_control": 97,
+                "defense": 62,
+                "shooting": 70
+            }
+        },
+        "score": {
+            "general": 81,
+            "physical": 93,
+            "technical": 76,
+            "mental": 77
+        }
+    },
+    {
+        "name": "Shai",
+        "attributes": {
+            "mental": {
+                "determination": 89,
+                "discipline": 100,
+                "knowledge": 60
+            },
+            "physical": {
+                "power": 89,
+                "speed": 63
+            },
+            "technical": {
+                "ball_control": 93,
+                "defense": 83,
+                "shooting": 66
+            }
+        },
+        "score": {
+            "general": 80,
+            "physical": 76,
+            "technical": 81,
+            "mental": 83
+        }
+    },
+    {
+        "name": "Aviv",
+        "attributes": {
+            "mental": {
+                "determination": 91,
+                "discipline": 73,
+                "knowledge": 70
+            },
+            "physical": {
+                "power": 66,
+                "speed": 80
+            },
+            "technical": {
+                "ball_control": 87,
+                "defense": 85,
+                "shooting": 98
+            }
+        },
+        "score": {
+            "general": 83,
+            "physical": 73,
+            "technical": 90,
+            "mental": 78
+        }
+    },
+    {
+        "name": "Bar",
+        "attributes": {
+            "mental": {
+                "determination": 65,
+                "discipline": 92,
+                "knowledge": 94
+            },
+            "physical": {
+                "power": 60,
+                "speed": 60
+            },
+            "technical": {
+                "ball_control": 99,
+                "defense": 76,
+                "shooting": 85
+            }
+        },
+        "score": {
+            "general": 79,
+            "physical": 60,
+            "technical": 87,
+            "mental": 84
+        }
+    },
+    {
+        "name": "Tomer",
+        "attributes": {
+            "mental": {
+                "determination": 85,
+                "discipline": 83,
+                "knowledge": 83
+            },
+            "physical": {
+                "power": 62,
+                "speed": 84
+            },
+            "technical": {
+                "ball_control": 82,
+                "defense": 78,
+                "shooting": 97
+            }
+        },
+        "score": {
+            "general": 82,
+            "physical": 73,
+            "technical": 86,
+            "mental": 84
+        }
+    },
+    {
+        "name": "Erez",
+        "attributes": {
+            "mental": {
+                "determination": 94,
+                "discipline": 71,
+                "knowledge": 61
+            },
+            "physical": {
+                "power": 92,
+                "speed": 69
+            },
+            "technical": {
+                "ball_control": 64,
+                "defense": 73,
+                "shooting": 96
+            }
+        },
+        "score": {
+            "general": 78,
+            "physical": 80,
+            "technical": 78,
+            "mental": 75
+        }
+    },
+    {
+        "name": "Ron",
+        "attributes": {
+            "mental": {
+                "determination": 69,
+                "discipline": 95,
+                "knowledge": 74
+            },
+            "physical": {
+                "power": 92,
+                "speed": 75
+            },
+            "technical": {
+                "ball_control": 66,
+                "defense": 88,
+                "shooting": 100
+            }
+        },
+        "score": {
+            "general": 83,
+            "physical": 84,
+            "technical": 85,
+            "mental": 79
+        }
+    },
+    {
+        "name": "Ilan",
+        "attributes": {
+            "mental": {
+                "determination": 67,
+                "discipline": 93,
+                "knowledge": 81
+            },
+            "physical": {
+                "power": 77,
+                "speed": 96
+            },
+            "technical": {
+                "ball_control": 63,
+                "defense": 82,
+                "shooting": 62
+            }
+        },
+        "score": {
+            "general": 76,
+            "physical": 86,
+            "technical": 69,
+            "mental": 80
+        }
+    },
+    {
+        "name": "Elad",
+        "attributes": {
+            "mental": {
+                "determination": 75,
+                "discipline": 67,
+                "knowledge": 67
+            },
+            "physical": {
+                "power": 84,
+                "speed": 67
+            },
+            "technical": {
+                "ball_control": 96,
+                "defense": 94,
+                "shooting": 66
+            }
+        },
+        "score": {
+            "general": 79,
+            "physical": 76,
+            "technical": 85,
+            "mental": 70
+        }
+    },
+    {
+        "name": "Gal",
+        "attributes": {
+            "mental": {
+                "determination": 89,
+                "discipline": 87,
+                "knowledge": 71
+            },
+            "physical": {
+                "power": 71,
+                "speed": 76
+            },
+            "technical": {
+                "ball_control": 92,
+                "defense": 71,
+                "shooting": 86
+            }
+        },
+        "score": {
+            "general": 80,
+            "physical": 74,
+            "technical": 83,
+            "mental": 82
+        }
+    },
+    {
+        "name": "Yaniv",
+        "attributes": {
+            "mental": {
+                "determination": 94,
+                "discipline": 99,
+                "knowledge": 60
+            },
+            "physical": {
+                "power": 74,
+                "speed": 70
+            },
+            "technical": {
+                "ball_control": 64,
+                "defense": 84,
+                "shooting": 61
+            }
+        },
+        "score": {
+            "general": 74,
+            "physical": 72,
+            "technical": 70,
+            "mental": 84
+        }
+    },
+    {
+        "name": "Omer",
+        "attributes": {
+            "mental": {
+                "determination": 88,
+                "discipline": 72,
+                "knowledge": 95
+            },
+            "physical": {
+                "power": 87,
+                "speed": 100
+            },
+            "technical": {
+                "ball_control": 63,
+                "defense": 96,
+                "shooting": 70
+            }
+        },
+        "score": {
+            "general": 83,
+            "physical": 94,
+            "technical": 76,
+            "mental": 85
+        }
+    },
+    {
+        "name": "Tal",
+        "attributes": {
+            "mental": {
+                "determination": 61,
+                "discipline": 93,
+                "knowledge": 87
+            },
+            "physical": {
+                "power": 92,
+                "speed": 92
+            },
+            "technical": {
+                "ball_control": 78,
+                "defense": 82,
+                "shooting": 61
+            }
+        },
+        "score": {
+            "general": 80,
+            "physical": 92,
+            "technical": 74,
+            "mental": 80
+        }
+    },
+    {
+        "name": "Ofek",
+        "attributes": {
+            "mental": {
+                "determination": 96,
+                "discipline": 86,
+                "knowledge": 70
+            },
+            "physical": {
+                "power": 72,
+                "speed": 69
+            },
+            "technical": {
+                "ball_control": 96,
+                "defense": 85,
+                "shooting": 78
+            }
+        },
+        "score": {
+            "general": 82,
+            "physical": 70,
+            "technical": 86,
+            "mental": 84
+        }
+    }
+]
